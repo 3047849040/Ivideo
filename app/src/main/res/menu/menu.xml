@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bot_dsp" android:title="短视频" android:icon="@drawable/ic_action_dsp"></item>
+    <item android:id="@+id/bot_fyt" android:title="放映厅" android:icon="@drawable/ic_action_fyt"></item>
+    <item android:id="@+id/bot_zb" android:title="直播" android:icon="@drawable/ic_action_zb"></item>
+    <item android:id="@+id/bot_me" android:title="我的" android:icon="@drawable/ic_action_me"></item>
+
+</menu>
